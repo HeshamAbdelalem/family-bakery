@@ -376,8 +376,9 @@ button {
   background-color: #403d38;
 }
 
-.footer-up .wrapper .row {
+.footer-up .wrapper {
   margin: 0 auto;
+  width: 1400px;
 }
 
 .footer-up .info {
@@ -401,7 +402,7 @@ button {
 .row .info {
   /* display: inline-block; */
   float: left;
-  width: 250px;
+  width: 300px;
   padding-left: 50px;
 }
 
