@@ -378,7 +378,6 @@ button {
 
 .footer-up .wrapper .row {
   margin: 0 auto;
-  color: red;
 }
 
 .footer-up .info {
@@ -397,12 +396,17 @@ button {
 
 .row {
   padding: 50px;
-  vertical-align: text-top;
+  /* vertical-align: text-top; */
 }
 .row .info {
-  display: inline-block;
+  /* display: inline-block; */
+  float: left;
   width: 250px;
   padding-left: 50px;
+}
+
+.row hr {
+  opacity: 0.2;
 }
 
 /*
