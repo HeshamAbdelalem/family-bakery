@@ -53,6 +53,7 @@ header {
   width: 1200px;
   left: 50%;
   transform: translatex(-50%);
+  z-index:3;
 }
 
 .wrapper {
